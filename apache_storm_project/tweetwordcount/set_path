@@ -1,0 +1,4 @@
+# Set the pythonpath. Please source this file before running any process.
+
+export PYTHONPATH=$PYTHONPATH:$(pwd)/src
+echo $PYTHONPATH
